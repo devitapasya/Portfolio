@@ -1,6 +1,6 @@
-## Hi I'm Anujkumar Yadav <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Tapasya Kite <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Anujkumar Yadav a Front-End Web Developer and Content Creator on [Instagram](https://www.instagram.com/nightcoderr_/). I Spend most of time coding outstanding projects or making contents.
+I'm Tapasya Kite a Front-End Web Developer and Content Creator on [Instagram](https://www.instagram.com/nightcoderr_/). I Spend most of time coding outstanding projects or making contents.
 
 :mailbox: Reach me out!
 
@@ -8,8 +8,8 @@ I'm Anujkumar Yadav a Front-End Web Developer and Content Creator on [Instagram]
 
 - 🔭 I’m currently learning @React
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: anujf0510@gmail.com.
-- 😄 Pronouns: nightcoderr, anuj.
+- 📫 How to reach me: tapasyakite@gmail.com.
+- 😄 Pronouns: nightcoderr.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 ### Languages
